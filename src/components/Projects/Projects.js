@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="Artix"
               description="I'm in the process of creating an extraordinary bot that can manage all your servers on its own. It has over 200 commands as well as premium commands. A customised version is also possible!"
-              ghLink="https://discord.gg/k3XJBZYcA6"
+              ghLink="https://discord.gg/hNMthXFw98"
             />
           </Col>
 
